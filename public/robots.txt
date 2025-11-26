@@ -13,4 +13,5 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mindspiresolutions.com/sitemap.xml
+Sitemap: https://mindspire-solution.vercel.app/sitemap.xml
+            
