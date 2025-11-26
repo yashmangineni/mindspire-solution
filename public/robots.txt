@@ -14,4 +14,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mindspire-solution.vercel.app/sitemap.xml
-            
+
+
